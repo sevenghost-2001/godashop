@@ -2,7 +2,7 @@ Dự án Godashop – Website bán quần áo thời trang
 Mô tả chung:
 Godashop là một hệ thống thương mại điện tử cơ bản dùng PHP thuần (kết hợp với một chút JavaScript) để bán quần áo thời trang, bao gồm cả giao diện người dùng (frontend) và giao diện quản trị (admin/backend).
 
-🔧 Công nghệ & Kiến trúc
+Công nghệ & Kiến trúc
 Ngôn ngữ & Framework: PHP (kết hợp Hack), sử dụng composer cho quản lý thư viện; cấu trúc theo mô hình MVC đơn giản. 
 Cơ sở dữ liệu: MySQL; file godashop.sql chứa cấu trúc bảng và dữ liệu mẫu.
 Frontend: HTML, CSS, JavaScript cơ bản (site folder), có giao diện cho người dùng đặt hàng và xem sản phẩm.
