@@ -16,6 +16,7 @@ Giỏ hàng & Thanh toán: Người dùng có thể chọn sản phẩm vào gi�
 Quản trị hệ thống: Admin xem danh sách đơn hàng, quản lý sản phẩm, user.
 Cấu trúc rõ ràng: Module tách biệt—model, service, controller, view—giúp dễ mở rộng và bảo trì.
 Tối ưu tái sử dụng: vendor dùng để cài các thư viện hỗ trợ, dễ mở rộng bằng composer.
+
 Vai trò & Đóng góp của bạn
 Thiết kế và triển khai cấu trúc MVC cho cả frontend và backend.(Chủ yếu là xử lý hiển thị bên front-end)
 Xây dựng tính năng upload ảnh sản phẩm và tích hợp xử lý an toàn file.
